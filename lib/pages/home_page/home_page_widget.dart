@@ -288,7 +288,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         ),
                       ),
                       Expanded(
-                        flex: 2,
+                        flex: 3,
                         child: Align(
                           alignment: AlignmentDirectional(0.0, 0.0),
                           child: Container(
@@ -319,8 +319,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                     ),
                                   ),
                                   Container(
-                                    width: 600.0,
-                                    height: 600.0,
+                                    width: 800.0,
+                                    height: 800.0,
                                     decoration: BoxDecoration(
                                       color: Color(0x40FFFFFF),
                                     ),
